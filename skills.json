@@ -12,7 +12,7 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Redux",
+        "name": "Data Science",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
@@ -24,11 +24,11 @@
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
-        "name": "MaterialUI",
+        "name": "Linux/Unix",
         "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
     },
     {
-        "name": "ChakraUI",
+        "name": "Cybersecurity",
         "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
     },
     {
@@ -92,15 +92,15 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
-        "name": "Heroku",
+        "name": "Google Cloud",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
     },
     {
-        "name": "Netlify",
+        "name": "Ethical Hacking",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "DigitalOcean",
+        "name": "DBMS",
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
     },
     {
@@ -116,7 +116,27 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
+        "name": "Artificial Intelligence & machine Learning",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    },
+     {
+        "name": "IoT",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+     {
+        "name": "MATLAB",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }, 
+     {
+        "name": "DevOps",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }, 
+     {
+        "name": "VR & AR",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }, 
+     {
+        "name": "WEB 3.0",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }
 ]
