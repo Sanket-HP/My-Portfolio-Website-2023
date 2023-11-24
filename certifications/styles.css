@@ -1,0 +1,57 @@
+/* Basic styling for certification section */
+
+/* Style for certification boxes */
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/* Style for certification box content */
+.box .content {
+    padding: 10px;
+}
+
+/* Style for certification box image */
+.box img {
+    width: 100%;
+    height: auto;
+}
+
+/* Style for certification box title */
+.box h3 {
+    margin-top: 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Style for certification box description */
+.box p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+/* Style for buttons */
+.btn {
+    padding: 8px 16px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Style for active button */
+.btn.is-checked {
+    background-color: #0056b3;
+}
