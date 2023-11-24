@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Certification Name 1",
+        "desc": "Description of Certification 1.",
+        "category": "Category 1",
+        "image": "image1",
+        "links": {
+            "view": "https://certification_link_1.com",
+            "code": "https://github.com/user/certification_1_code"
+        }
+    },
+    {
+        "name": "Certification Name 2",
+        "desc": "Description of Certification 2.",
+        "category": "Category 2",
+        "image": "image2",
+        "links": {
+            "view": "https://certification_link_2.com",
+            "code": "https://github.com/user/certification_2_code"
+        }
+    },
+    {
+        "name": "Certification Name 3",
+        "desc": "Description of Certification 3.",
+        "category": "Category 3",
+        "image": "image3",
+        "links": {
+            "view": "https://certification_link_3.com",
+            "code": "https://github.com/user/certification_3_code"
+        }
+    },
+    {
+        "name": "Certification Name 4",
+        "desc": "Description of Certification 4.",
+        "category": "Category 4",
+        "image": "image4",
+        "links": {
+            "view": "https://certification_link_4.com",
+            "code": "https://github.com/user/certification_4_code"
+        }
+    },
+    {
+        "name": "Certification Name 5",
+        "desc": "Description of Certification 5.",
+        "category": "Category 5",
+        "image": "image5",
+        "links": {
+            "view": "https://certification_link_5.com",
+            "code": "https://github.com/user/certification_5_code"
+        }
+    },
+    {
+        "name": "Certification Name 6",
+        "desc": "Description of Certification 6.",
+        "category": "Category 6",
+        "image": "image6",
+        "links": {
+            "view": "https://certification_link_6.com",
+            "code": "https://github.com/user/certification_6_code"
+        }
+    }
+    // Add more certifications in the same format if needed
+]
